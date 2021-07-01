@@ -21,10 +21,6 @@ public class Biblioteca {
         this.direccion = direccion;
     }
 
-    public Biblioteca(float f, int i, Libro l1, String cayambe) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
     public float getTamanio() {
         return tamanio;
     }
